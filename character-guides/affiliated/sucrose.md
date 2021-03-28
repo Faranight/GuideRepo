@@ -16,9 +16,9 @@ This guide was written by the EggsD of the Sucrose Fan Club community. You can f
 {% endtab %}
 {% endtabs %}
 
-_“An alchemist with an insatiable curiosity towards the world and everything in it. Attached to the Knights of Favonius as an assistant to_ [_Albedo_](https://genshin-impact.fandom.com/wiki/Albedo)_, her area of focus is "bio-alchemy." She strives to enrich the world by transforming living things with the power of alchemy. Granted, the products of her research sometimes prove to be more weird than wonderful — but on the whole, she has made monumental contributions to the field of bio-alchemy.”_ 
+_“An alchemist with an insatiable curiosity towards the world and everything in it. Attached to the Knights of Favonius as an assistant to_ [_Albedo_](https://genshin-impact.fandom.com/wiki/Albedo)_, her area of focus is "bio-alchemy." She strives to enrich the world by transforming living things with the power of alchemy. Granted, the products of her research sometimes prove to be more weird than wonderful — but on the whole, she has made monumental contributions to the field of bio-alchemy.”_
 
-- Official Genshin Website
+* Official Genshin Website
 
 **Rarity: 4-Star  
 Element: Anemo  
@@ -102,8 +102,5 @@ When Sucrose hits an opponent with **either Elemental Skill or Elemental Burst**
 
 ![](../../.gitbook/assets/image%20%28132%29.png)
 
-Quite underrated. When Sucrose crafts character/weapon ascension materials at the crafting bench, she has **10% chance of doubling her product.**  
-  
-  
-
+Quite underrated. When Sucrose crafts character/weapon ascension materials at the crafting bench, she has **10% chance of doubling her product.**
 

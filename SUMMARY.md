@@ -10,6 +10,7 @@
   * [Ganyu](character-guides/kqm/ganyu.md)
   * [Keqing](character-guides/kqm/keqing.md)
   * [Zhongli](character-guides/kqm/zhongli.md)
+  * [Sucrose](character-guides/kqm/sucrose.md)
 * [Affiliated](character-guides/affiliated/README.md)
   * [Albedo](character-guides/affiliated/albedo.md)
   * [Beidou](character-guides/affiliated/beidou.md)
